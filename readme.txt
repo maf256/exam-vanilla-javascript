@@ -1,0 +1,1 @@
+exam project with vanilla javascript
